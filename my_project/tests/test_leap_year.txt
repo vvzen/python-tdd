@@ -1,0 +1,6 @@
+TEST CASES:
+-Can call leap year ✅
+-Returns false if not divisible by 4 ✅
+-Returns true if divisible by 4 but not 100 or 400 
+-Returns false if divisible by 4 but is divisible by 100 and not 400
+-Returns true if divisible by 4 and 100 and 400
